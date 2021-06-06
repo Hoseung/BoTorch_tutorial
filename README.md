@@ -1,2 +1,3 @@
 # BoTorch_tutorial
-My personal note
+
+Going throguth the tutorials are from https://botorch.org/tutorials/, I annotated them. 
